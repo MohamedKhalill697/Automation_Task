@@ -29,5 +29,15 @@ This project automates critical test scenarios on a Magento-based e-commerce web
 
 ---
 
-## 📁 Project Structure
+## ⚙️ Setup Instructions
 
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/MohamedKhalill697/Automation_Task.git
+   cd Automation_Task
+
+2. Install Java & Maven
+   Ensure that Java 20+ and Maven are installed and configured in your system's PATH.
+
+3. ▶️ Execution Instructions
+   Run with TestNG XML
